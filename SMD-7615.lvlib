@@ -52,4 +52,7 @@
 	<Item Name="Disconnect SV.vi" Type="VI" URL="../Disconnect SV.vi"/>
 	<Item Name="Stepper DAQ.vi" Type="VI" URL="../Stepper DAQ.vi"/>
 	<Item Name="Stepper.vi" Type="VI" URL="../Stepper.vi"/>
+	<Item Name="Stepper Drive Publish Messages.vi" Type="VI" URL="../Stepper Drive Publish Messages.vi"/>
+	<Item Name="Stepper Drive Publish DAQ Exit.vi" Type="VI" URL="../Stepper Drive Publish DAQ Exit.vi"/>
+	<Item Name="Stepper Drive Publish Event Loop Exit.vi" Type="VI" URL="../Stepper Drive Publish Event Loop Exit.vi"/>
 </Library>
