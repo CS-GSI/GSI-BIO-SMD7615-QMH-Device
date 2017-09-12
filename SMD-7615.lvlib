@@ -55,4 +55,5 @@
 	<Item Name="Stepper Drive Publish Messages.vi" Type="VI" URL="../Stepper Drive Publish Messages.vi"/>
 	<Item Name="Stepper Drive Publish DAQ Exit.vi" Type="VI" URL="../Stepper Drive Publish DAQ Exit.vi"/>
 	<Item Name="Stepper Drive Publish Event Loop Exit.vi" Type="VI" URL="../Stepper Drive Publish Event Loop Exit.vi"/>
+	<Item Name="_deleteme.vi" Type="VI" URL="../_deleteme.vi"/>
 </Library>
