@@ -50,10 +50,10 @@
 	<Item Name="Connect SV.vi" Type="VI" URL="../Connect SV.vi"/>
 	<Item Name="Measure dt.vi" Type="VI" URL="../Measure dt.vi"/>
 	<Item Name="Disconnect SV.vi" Type="VI" URL="../Disconnect SV.vi"/>
-	<Item Name="Stepper DAQ.vi" Type="VI" URL="../Stepper DAQ.vi"/>
+	<Item Name="Stepper Publish DAQ.vi" Type="VI" URL="../Stepper Publish DAQ.vi"/>
 	<Item Name="Stepper.vi" Type="VI" URL="../Stepper.vi"/>
 	<Item Name="Stepper Drive Publish Messages.vi" Type="VI" URL="../Stepper Drive Publish Messages.vi"/>
 	<Item Name="Stepper Drive Publish DAQ Exit.vi" Type="VI" URL="../Stepper Drive Publish DAQ Exit.vi"/>
 	<Item Name="Stepper Drive Publish Event Loop Exit.vi" Type="VI" URL="../Stepper Drive Publish Event Loop Exit.vi"/>
-	<Item Name="_deleteme.vi" Type="VI" URL="../_deleteme.vi"/>
+	<Item Name="Stepper DAQ (Core).vi" Type="VI" URL="../Stepper DAQ (Core).vi"/>
 </Library>
