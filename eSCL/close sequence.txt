@@ -1,0 +1,14 @@
+AM - Max Acceleration
+	Host	AM5416
+	no Reply
+SK - Stop & Kill
+	Doku sagt AM gehört zu SK und nicht SKD
+	Aber k.a. ob das für den SMD7915 stimmt
+	Host	SKD
+	no reply
+MD - Motor Disable
+	Host	MD	
+	no reply
+AR - Alarm Reset (Immediate)
+	Host		AR
+	No Reply

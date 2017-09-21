@@ -46,12 +46,16 @@
 		<Item Name="SV Inputs.ctl" Type="VI" URL="../CTL/SV Inputs.ctl"/>
 		<Item Name="SV Outputs.ctl" Type="VI" URL="../CTL/SV Outputs.ctl"/>
 	</Item>
+	<Item Name="eSCL" Type="Folder">
+		<Item Name="eSCL.lvlib" Type="Library" URL="../eSCL/eSCL.lvlib"/>
+	</Item>
 	<Item Name="All VIs.vi" Type="VI" URL="../All VIs.vi"/>
 	<Item Name="Connect SV.vi" Type="VI" URL="../Connect SV.vi"/>
 	<Item Name="Measure dt.vi" Type="VI" URL="../Measure dt.vi"/>
 	<Item Name="Disconnect SV.vi" Type="VI" URL="../Disconnect SV.vi"/>
 	<Item Name="Stepper Publish DAQ.vi" Type="VI" URL="../Stepper Publish DAQ.vi"/>
 	<Item Name="Stepper.vi" Type="VI" URL="../Stepper.vi"/>
+	<Item Name="Stepper eSCL UDP.vi" Type="VI" URL="../Stepper eSCL UDP.vi"/>
 	<Item Name="Stepper Drive Publish Messages.vi" Type="VI" URL="../Stepper Drive Publish Messages.vi"/>
 	<Item Name="Stepper Drive Publish DAQ Exit.vi" Type="VI" URL="../Stepper Drive Publish DAQ Exit.vi"/>
 	<Item Name="Stepper Drive Publish Event Loop Exit.vi" Type="VI" URL="../Stepper Drive Publish Event Loop Exit.vi"/>

@@ -1,0 +1,20 @@
+IE - Immediate Encoder
+	Host	IE
+	Reply	IE=2500	
+RL - Register Load - immediate
+	R: Steps per Rev*
+	Host		RLR
+	Reply		RLR=10000
+IV - Immediate Velocity
+	IV0	 : 0 = actual velocity request (stepper drives with encoder)
+	Host		IV0
+	Reply		IV=0
+AL - Alarm Code
+	Host		AL	
+	Reply		AL=0000
+IS - Input Status
+	Host		IS
+	Reply		IS=111111111
+IP - Immediate Position
+	Host		IP
+	Reply		IP=500000

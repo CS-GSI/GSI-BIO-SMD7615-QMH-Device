@@ -1,0 +1,32 @@
+MV - Model & Revision		Reply
+	Host		MV	
+	Reply	106D017
+RS - Request Status			
+	Host 		RS
+	Reply		RS=D
+IF - Immediate Format	
+	Host		IFD						
+	No Reply
+RL - Register Load - immediate
+	R: Steps per Rev*
+	Host		RLR
+	Reply		RLR=10000
+SI - Enable Input Usage
+	SI3: Neither X3 nor IN3 is used for enabling/disabling the drive, but as general purpose inputs.
+	Host		SI3
+	No Reply
+PR - Protocol
+	PR1	Set to standard SCL protocol
+	Host		PR1
+	No Reply
+AR - Alarm Reset (Immediate)
+	Host		AR
+	No Reply
+ME - Motor Enable
+	Host		ME
+	Reply only on failure
+IL - Immediate Low Output
+	Sets output to low immediately
+	Parameter: Output Number
+	Host		IL1 , Il2 , Il3 , Il4	
+	No Reply
