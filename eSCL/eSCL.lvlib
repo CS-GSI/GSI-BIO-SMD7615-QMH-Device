@@ -14,7 +14,13 @@
 		<Item Name="Command (read &amp; write) - AM.vi" Type="VI" URL="../Command (read &amp; write) - AM.vi"/>
 		<Item Name="Command (read &amp; write) - DE.vi" Type="VI" URL="../Command (read &amp; write) - DE.vi"/>
 		<Item Name="Command (read &amp; write) - DI.vi" Type="VI" URL="../Command (read &amp; write) - DI.vi"/>
+		<Item Name="Command (read &amp; write) - DL.vi" Type="VI" URL="../Command (read &amp; write) - DL.vi"/>
+		<Item Name="Command (read &amp; write) - IF.vi" Type="VI" URL="../Command (read &amp; write) - IF.vi"/>
+		<Item Name="Command (read &amp; write) - PR.vi" Type="VI" URL="../Command (read &amp; write) - PR.vi"/>
 		<Item Name="Command (read &amp; write) - RL.vi" Type="VI" URL="../Command (read &amp; write) - RL.vi"/>
+		<Item Name="Command (read &amp; write) - SI.vi" Type="VI" URL="../Command (read &amp; write) - SI.vi"/>
+		<Item Name="Command (read &amp; write) - SP.vi" Type="VI" URL="../Command (read &amp; write) - SP.vi"/>
+		<Item Name="Command (read &amp; write) - VE.vi" Type="VI" URL="../Command (read &amp; write) - VE.vi"/>
 		<Item Name="Command (read) - AL.vi" Type="VI" URL="../Command (read) - AL.vi"/>
 		<Item Name="Command (read) - IE.vi" Type="VI" URL="../Command (read) - IE.vi"/>
 		<Item Name="Command (read) - IP.vi" Type="VI" URL="../Command (read) - IP.vi"/>
@@ -23,20 +29,14 @@
 		<Item Name="Command (read) - MV.vi" Type="VI" URL="../Command (read) - MV.vi"/>
 		<Item Name="Command (read) - RS.vi" Type="VI" URL="../Command (read) - RS.vi"/>
 		<Item Name="Command (write) - AR.vi" Type="VI" URL="../Command (write) - AR.vi"/>
-		<Item Name="Command (write) - DL.vi" Type="VI" URL="../Command (write) - DL.vi"/>
 		<Item Name="Command (write) - EP.vi" Type="VI" URL="../Command (write) - EP.vi"/>
 		<Item Name="Command (write) - FL.vi" Type="VI" URL="../Command (write) - FL.vi"/>
 		<Item Name="Command (write) - FP.vi" Type="VI" URL="../Command (write) - FP.vi"/>
-		<Item Name="Command (write) - IF.vi" Type="VI" URL="../Command (write) - IF.vi"/>
 		<Item Name="Command (write) - IH.vi" Type="VI" URL="../Command (write) - IH.vi"/>
 		<Item Name="Command (write) - IL.vi" Type="VI" URL="../Command (write) - IL.vi"/>
 		<Item Name="Command (write) - MD.vi" Type="VI" URL="../Command (write) - MD.vi"/>
 		<Item Name="Command (write) - ME.vi" Type="VI" URL="../Command (write) - ME.vi"/>
-		<Item Name="Command (write) - PR.vi" Type="VI" URL="../Command (write) - PR.vi"/>
-		<Item Name="Command (write) - SI.vi" Type="VI" URL="../Command (write) - SI.vi"/>
 		<Item Name="Command (write) - SK.vi" Type="VI" URL="../Command (write) - SK.vi"/>
-		<Item Name="Command (write) - SP.vi" Type="VI" URL="../Command (write) - SP.vi"/>
-		<Item Name="Command (write) - VE.vi" Type="VI" URL="../Command (write) - VE.vi"/>
 	</Item>
 	<Item Name="CTL" Type="Folder">
 		<Item Name="DBL Command and Param.ctl" Type="VI" URL="../DBL Command and Param.ctl"/>
