@@ -46,9 +46,9 @@
 	</Item>
 	<Item Name="HighLevel" Type="Folder">
 		<Item Name="SMD7615 UDP Close.vi" Type="VI" URL="../SMD7615 UDP Close.vi"/>
+		<Item Name="SMD7615 UDP Commit Move.vi" Type="VI" URL="../SMD7615 UDP Commit Move.vi"/>
 		<Item Name="SMD7615 UDP DAQ.vi" Type="VI" URL="../SMD7615 UDP DAQ.vi"/>
 		<Item Name="SMD7615 UDP Init.vi" Type="VI" URL="../SMD7615 UDP Init.vi"/>
-		<Item Name="SMD7615 UDP Move.vi" Type="VI" URL="../SMD7615 UDP Move.vi"/>
 		<Item Name="SMD7615 UDP Reset Position.vi" Type="VI" URL="../SMD7615 UDP Reset Position.vi"/>
 		<Item Name="SMD7615 UDP Stop Move.vi" Type="VI" URL="../SMD7615 UDP Stop Move.vi"/>
 	</Item>
