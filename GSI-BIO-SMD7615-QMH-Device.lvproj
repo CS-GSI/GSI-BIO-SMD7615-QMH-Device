@@ -79,7 +79,6 @@
 			<Item Name="LUL-LogFile.lvlib" Type="Library" URL="../../LUL-All/LUL-LogFile/LUL-LogFile.lvlib"/>
 			<Item Name="LUL-SysLog.lvlib" Type="Library" URL="../../LUL-All/LUL-Syslog/LUL-SysLog.lvlib"/>
 			<Item Name="Message Queue.lvlib" Type="Library" URL="../../../support/Message Queue/Message Queue.lvlib"/>
-			<Item Name="nimclv.dll" Type="Document" URL="/&lt;nishared&gt;/SoftMotion/16.0/nimclv.dll"/>
 			<Item Name="NVIORef.dll" Type="Document" URL="NVIORef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
