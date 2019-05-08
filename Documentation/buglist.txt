@@ -1,0 +1,4 @@
+issue when working on probenhandling system:
+	chaning velocity, acceleration, deceleration in ini file lead to NAK reply from stepper.
+	Assumptiom is: Stepper sends a ?4 which is misinterpreted by the software. I assume the 4 is part of the next data to be read. 
+		This has to be investigated, workaround is to simply try if the ini file settings work.
